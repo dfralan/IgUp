@@ -3,8 +3,8 @@ Clean random jpg uploader from folder for Instagram.
 
 Instructions:
 
-Modify the loggin information in the python file, then put the IgUp.py file and the photos folder in same directory and execute the app.
+- Modify the loggin information and directories in the python file, then put the IgUp.py file and the photos folder in same directory and execute the app.
 
 Requisites:
 
-Python installed.
+- Python installed.
